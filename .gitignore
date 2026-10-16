@@ -1,0 +1,14 @@
+# Backups and temporary files
+*.bak
+*_backup.html
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Environment and helper scripts
+fix_*.py
+
+# Agent and temporary stitch files
+.agents/
+.stitch/
